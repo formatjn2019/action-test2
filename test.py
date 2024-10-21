@@ -3,4 +3,4 @@ if __name__ == '__main__':
     print(git)
     print(23423)
     with open("./result.txt","w") as f:
-        f.write("fadfdaffffffp[fff")
+        f.write("fadfdaasdfffffffp[fff")
